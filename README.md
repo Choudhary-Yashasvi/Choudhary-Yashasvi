@@ -22,5 +22,4 @@ Python | React.js | JavaScript | FastAPI | HTML5 | CSS3 | Tailwind CSS | UI/UX D
 ![](https://github-contributor-stats.vercel.app/api?username=Choudhary-Yashasvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Choudhary-Yashasvi&icon=0&color=0)](https://visitcount.itsvg.in)
-![Uploading image.png…]()
+
