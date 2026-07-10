@@ -16,4 +16,4 @@ Python | React.js | JavaScript | FastAPI | HTML5 | CSS3 | Tailwind CSS | UI/UX D
 ![](https://github-profile-trophy.vercel.app/?username=Choudhary-Yashasvi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)![Uploading image.png…]()
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
