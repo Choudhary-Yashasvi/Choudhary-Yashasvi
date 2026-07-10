@@ -17,4 +17,3 @@ Python | React.js | JavaScript | FastAPI | HTML5 | CSS3 | Tailwind CSS | UI/UX D
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Uploading image.png…]()
