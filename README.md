@@ -1,5 +1,5 @@
-div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=240&section=header&text=GitHub%20Profile&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="GitHub Profile banner"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=240&section=header&text=GitHub%20Profile&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Welcome!&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="GitHub Profile banner"/>
 </div>
 
 <div align="center">
@@ -14,29 +14,29 @@ div align="center">
 
 ### About
 
-Writing code to solve complex problems. Always building, always learning in public, and turning ideas into open-source reality
+Writing code to solve complex problems. Always building, always learning in public, and turning ideas into open-source reality.
 
 ### Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,html,kotlin,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,html,kotlin,css&theme=dark" alt="Languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,nodejs,express,django,mysql,mongodb,firebase&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,nodejs,express,django,mysql,mongodb,firebase&theme=dark" alt="Backend & Databases" />
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=jupyter,aws,azure,figma,vercel,vscode,linux,git&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=jupyter,aws,azure,figma,vercel,vscode,linux,git&theme=dark" alt="DevOps & Cloud" />
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas&theme=dark" alt="AI / ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas&theme=dark" alt="AI / ML" />
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura)
 
@@ -46,6 +46,6 @@ Writing code to solve complex problems. Always building, always learning in publ
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=120&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
